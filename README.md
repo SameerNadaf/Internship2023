@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sameer Nadaf</h1>
 <h3 align="center">Source code of freeCodeCamp projects</h3>
 
+<p align="left"> <a href="https://twitter.com/sameernadaf31" target="blank"><img src="https://img.shields.io/twitter/follow/sameernadaf31?logo=twitter&style=for-the-badge" alt="sameernadaf31" /></a> </p>
+
 - 🔭 I’m currently working on [Full Stack](https://github.com/SameerNadaf/Internship2023)
 
 - 🌱 I’m currently learning **Java and fullstack**
