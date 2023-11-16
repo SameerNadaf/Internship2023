@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sameernadaf31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameernadaf31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameer nadaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer nadaf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sameer-nadaf-92447b21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-nadaf-92447b21a" height="30" width="40" /></a>
 <a href="https://instagram.com/sameer_nadaf_62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer_nadaf_62" height="30" width="40" /></a>
 </p>
 
